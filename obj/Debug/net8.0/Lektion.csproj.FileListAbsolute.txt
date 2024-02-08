@@ -1,0 +1,15 @@
+C:\Users\Elgiganten\OneDrive\Skrivbord\prog_forts\Lektion\bin\Debug\net8.0\Lektion.exe
+C:\Users\Elgiganten\OneDrive\Skrivbord\prog_forts\Lektion\bin\Debug\net8.0\Lektion.deps.json
+C:\Users\Elgiganten\OneDrive\Skrivbord\prog_forts\Lektion\bin\Debug\net8.0\Lektion.runtimeconfig.json
+C:\Users\Elgiganten\OneDrive\Skrivbord\prog_forts\Lektion\bin\Debug\net8.0\Lektion.dll
+C:\Users\Elgiganten\OneDrive\Skrivbord\prog_forts\Lektion\bin\Debug\net8.0\Lektion.pdb
+C:\Users\Elgiganten\OneDrive\Skrivbord\prog_forts\Lektion\obj\Debug\net8.0\Lektion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elgiganten\OneDrive\Skrivbord\prog_forts\Lektion\obj\Debug\net8.0\Lektion.AssemblyInfoInputs.cache
+C:\Users\Elgiganten\OneDrive\Skrivbord\prog_forts\Lektion\obj\Debug\net8.0\Lektion.AssemblyInfo.cs
+C:\Users\Elgiganten\OneDrive\Skrivbord\prog_forts\Lektion\obj\Debug\net8.0\Lektion.csproj.CoreCompileInputs.cache
+C:\Users\Elgiganten\OneDrive\Skrivbord\prog_forts\Lektion\obj\Debug\net8.0\Lektion.sourcelink.json
+C:\Users\Elgiganten\OneDrive\Skrivbord\prog_forts\Lektion\obj\Debug\net8.0\Lektion.dll
+C:\Users\Elgiganten\OneDrive\Skrivbord\prog_forts\Lektion\obj\Debug\net8.0\refint\Lektion.dll
+C:\Users\Elgiganten\OneDrive\Skrivbord\prog_forts\Lektion\obj\Debug\net8.0\Lektion.pdb
+C:\Users\Elgiganten\OneDrive\Skrivbord\prog_forts\Lektion\obj\Debug\net8.0\Lektion.genruntimeconfig.cache
+C:\Users\Elgiganten\OneDrive\Skrivbord\prog_forts\Lektion\obj\Debug\net8.0\ref\Lektion.dll
